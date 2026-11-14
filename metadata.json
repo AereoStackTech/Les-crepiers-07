@@ -1,0 +1,6 @@
+{
+  "name": "Les crepiers 07 — Crêperie Safi",
+  "description": "Crêperie artisanale sucrée & salée à Quartier l'hôpital, Safi. Commandez en direct sur WhatsApp — Sur Place, Service Drive ou Livraison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
